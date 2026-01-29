@@ -15,6 +15,7 @@
 </p>
 
 ---
+[🇬🇧 English](README.md) | [🇮🇹 Italiano](README-IT.md)
 
 ## 📖 Descrizione
 
